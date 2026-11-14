@@ -9,7 +9,7 @@ Página hecha por fans para ver en vivo los servidores de FenixZone (GTA San And
 - Estado de todos los servidores (online, jugadores, ping, reinicios)
 - Lista de jugadores con buscador, orden por columnas, páginas (50 / 100 / 200 / todos) y enlace al perfil de cada uno
 - Estadísticas por tiempo
-- Asistente IA (OpenRouter o Groq) con base de conocimiento en `conocimiento/`
+- Asistente IA (OpenRouter) con base de conocimiento en `conocimiento/`
 
 ## Cómo usarlo (Windows)
 
